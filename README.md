@@ -1,4 +1,4 @@
-# Boas vindas ao Desafio Tecnico Ebytr
+# Boas vindas ao Desafio Tecnico Edupulses
 
 O teste consiste em fazer dois endPoints:
   Retonar a quantidade de numeros fibonacci passado por input;
